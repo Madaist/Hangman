@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1549907287 source:c:\users\laptop hp\desktop\hangman\main.cpp
+	<iostream>
+	"Functions.hpp"
+
+1549907431 c:\users\laptop hp\desktop\hangman\functions.hpp
+	<vector>
+	<fstream>
+	<string>
+	<time.h>
+	<cstdlib>
+
